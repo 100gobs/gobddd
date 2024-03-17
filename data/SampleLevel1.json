@@ -1,16 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "name": "Schabernack Consist",
+    "author": "ChaseLux",
+    "creators": ["ChaseLux", "LuxChase", "Chase"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "verification": "https://www.youtube.com/watch?v=6sXwBP5-7yc",
+    "percentToQualify": 100,
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Koozoo2000",
+            "link": "https://medal.tv/games/geometry-dash/clips/21obQtuSy32H03/ByXf6zYVY7tI?invite=cr-MSxROXosMjA1OTMyMzgyLA?mobilebypass=true",
             "percent": 100,
             "hz": 360
         }
